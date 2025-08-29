@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: "1.25"
+    created: "2025-08-29T07:27:52.5301791+01:00"
+    description: A simple Nginx deployment
+    digest: 9f738e836b13afe738d3d6264540ac8e658d4b6bee90341a6cb41ed6b09c0904
+    name: nginx
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-29T07:27:52.513772+01:00"
