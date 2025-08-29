@@ -1,1 +1,1 @@
-Helm chart repo 
+GitHub hosted Helm chart repo 
